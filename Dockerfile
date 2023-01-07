@@ -1,6 +1,6 @@
 FROM openjdk:8-jdk-alpine
 
-MAINTAINER daianachile
+EXPOSE 8080
 
 COPY target/Portfolio-0.0.1-SNAPSHOT.jar Portfolio-0.0.1-SNAPSHOT.jar
 
