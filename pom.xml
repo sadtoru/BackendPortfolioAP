@@ -8,11 +8,11 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>arg.com.pruebaPortfolioAP</groupId>
+	<groupId>arg.com.BackendDai</groupId>
 	<artifactId>Portfolio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Portfolio</name>
-	<description>Prueba del Porfolio Springboot-Angular</description>
+	<description>Backend de Daiana Chile</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
